@@ -19,9 +19,6 @@ I am a developer who bridges the gap between complex industrial data and modern 
 - **Databases:** MySQL, PostgreSQL, MongoDB.
 - **Specialized:** Galileo GDS, Data Modeling, API Integration.
 
-### 📊 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tommoriaren&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 🤝 Let's Connect!
