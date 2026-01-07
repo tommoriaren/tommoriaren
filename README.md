@@ -1,4 +1,4 @@
-# Hi, I'm Tommy Oktoriyan Ketaren 👋
+# Hi, I'm Tommy 👋
 
 ### 💻 Fullstack JS Developer | 📊 Ex Data Analyst (Travel Tech)
 
