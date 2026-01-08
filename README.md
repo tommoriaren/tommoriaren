@@ -22,5 +22,5 @@ I am a developer who bridges the gap between complex industrial data and modern 
 ---
 
 ### 🤝 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/tommyoktoriyan/)
+- 💼 [LinkedIn](https://)
 - 📧 [Portfolio Site](https://github.com/tommoriaren)
