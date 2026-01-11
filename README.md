@@ -2,7 +2,7 @@
 
 ### 💻 Fullstack Developer | 📊 Ex Data Analyst (Travel Tech) | 🎓 Information Systems Graduate
 
-I am a developer who bridges the gap between complex industrial data and modern web applications. My experience in Travel Tech gives me a unique edge in handling intricate logic and large-scale data systems.
+Bridges the gap between complex industrial data and modern web applications. Drawing from a background in Information Systems and experience in the Travel Tech sector to build data-driven, functional systems.
 
 ---
 
