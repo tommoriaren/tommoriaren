@@ -46,7 +46,7 @@ A practical solution developed to digitize manual operations for a local busines
 
 ## 📈 Professional Journey
 
-- **Senior Data Analyst (Fare Loader/Requester) | BPO - Travel Tech** (6 Years)
+- **Senior Data Analyst (Fare Loader/Requester) | ATI Business Group (Client: Travelport)** (6 Years)
   - Managed high-stakes flight contract data and distribution.
   - Specialized in translating complex airline fare rules into technical system commands.
 - **Bachelor of Information Systems | Bina Nusantara University**
@@ -64,7 +64,7 @@ A practical solution developed to digitize manual operations for a local busines
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/tommyoktoriyan](https://linkedin.com/in/tommyoktoriyan)
 - **Location:** West Java, Indonesia 🇮🇩
 
 ---
