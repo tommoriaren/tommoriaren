@@ -1,6 +1,6 @@
 # Hi, I'm Tommy 👋
 
-### 💻 Fullstack Engineer | 📊 Ex-Data Analyst (Travel Tech) | 🎓 Information Systems Graduate
+### 💻 Fullstack Developer | 📊 Ex-Data Analyst (Travel Tech) | 🎓 Information Systems Graduate
 
 I bridge the gap between complex industrial data and modern web applications. With **6 years of experience** in the Travel Tech sector and a degree in **Information Systems**, I build data-driven systems that are practical, scalable, and business-oriented.
 
@@ -8,7 +8,7 @@ I bridge the gap between complex industrial data and modern web applications. Wi
 
 ## 🚀 About Me
 
-- **The Transition:** I have evolved from a Senior Data Analyst (interpreting data) into a Software Engineer (building the systems that manage it). 
+- **The Transition:** I have evolved from a Senior Data Analyst (interpreting data) into a Fullstack Developer (building the end-to-end systems that power it). 
 - **Domain Expertise:** Spent 6 years specializing in Flight Contract Analysis and Galileo GDS, translating intricate airline rules into global distribution logic.
 - **Security Conscious:** Completed Cybersecurity Essentials (Intermediate Level) via IDCamp 2024 & Cisco Networking Academy, ensuring a security-first approach to data management.
 - **Recent Milestone:** Successfully completed a rigorous Project-Based Learning (PBL) program at BBPVP Bekasi and passed the National Competency Test (UJK) (Dec 2025).
