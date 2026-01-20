@@ -1,64 +1,64 @@
 # Hi, I'm Tommy 👋
 
-### 💻 Fullstack Developer | 📊 Ex-Data Analyst (Travel Tech) | 🎓 Information Systems Graduate
+### 🏗️ Data Engineer | 6 Years Domain Specialist in Travel Tech | 🤖 AI Back-end Developer
 
-I bridge the gap between complex industrial data and modern web applications. With **6 years of experience** in the Travel Tech sector and a degree in **Information Systems**, I build data-driven systems that are practical, scalable, and business-oriented.
+I build scalable data architectures and automated pipelines that bridge the gap between complex industrial data and actionable business intelligence. With **6 years of deep-domain experience** in Travel Tech and a background in **Information Systems**, I focus on building high-integrity data systems that are secure, practical, and AI-ready.
 
 ---
 
 ## 🚀 About Me
 
-- **The Transition:** I have evolved from a Senior Data Analyst (interpreting data) into a Fullstack Developer (building the end-to-end systems that power it). 
-- **Domain Expertise:** Spent 6 years specializing in Flight Contract Analysis and Galileo GDS, translating intricate airline rules into global distribution logic.
-- **Security Conscious:** Completed Cybersecurity Essentials (Intermediate Level) via IDCamp 2024 & Cisco Networking Academy, ensuring a security-first approach to data management.
-- **Recent Milestone:** Successfully completed a rigorous Project-Based Learning (PBL) program at BBPVP Bekasi and passed the National Competency Test (UJK) (Dec 2025).
-- **Ongoing Learning:** Currently sharpening my skills as an **AI Back-end Developer** at IDCamp 2025.
-- **Philosophy:** *Learning by doing.* I focus on building practical solutions and shipping clean, maintainable code to solve real-world operational problems.
+- **The Evolution:** Transitioned from a Senior Data Analyst into a **Data Engineer**. I don't just interpret data; I build the robust pipelines and back-end systems that power it.
+- **Domain Expertise:** Spent 6 years at the intersection of data and logic in the Travel Tech sector (Travelport), specializing in Flight Contract Analysis and Galileo GDS.
+- **AI-Enhanced Engineering:** Currently sharpening my skills as an **AI Back-end Developer** at IDCamp 2025 to build intelligent, automated data processing systems.
+- **Security-First Approach:** Intermediate-level Cybersecurity certified (Cisco), ensuring data integrity and threat management are baked into every system I build.
+- **Recent Milestone:** Passed the National Competency Test (UJK) for Fullstack Development (Dec 2025), validating my ability to ship clean, maintainable, and industry-standard code.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Modern Data Stack & Engineering)
 
 | Category | Technologies |
 | :--- | :--- |
-| **Web Development** | Laravel, Node.js (Express), React.js, Tailwind CSS |
-| **AI & Back-end** | Machine Learning Foundations, RESTful API Design |
-| **Cybersecurity** | Cisco Packet Tracer, Network Security, Threat Management |
-| **Data & Databases** | MySQL, PostgreSQL, MongoDB, Data Modeling, ETL Processes |
-| **Languages** | JavaScript (ES6+), PHP, Java (OOP Foundations), SQL, Python |
-| **Industry Tools** | Galileo GDS, Git/GitHub, Postman, Linux Environment |
+| **Data Engineering** | ETL Processes, Data Modeling, SQL (Advanced), Python, dbt (Learning) |
+| **Back-end & AI** | Node.js (Express), RESTful API Design, Machine Learning Foundations |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Infrastructure & Security** | Linux Environment, Git/GitHub, Cisco Network Security |
+| **Fullstack Skills** | Laravel, React.js, Tailwind CSS, PHP |
+| **Industry Tools** | Galileo GDS, Postman, Docker (Basics) |
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🧊 Alfa Frozen Jaya - Data-Driven Inventory & Attendance System
-*Fullstack Web Application for UMKM Operations (OJT Project)*
+*Fullstack Web Application for UMKM Operations*
 
-A practical solution developed to digitize manual operations for a local business.
+Redesigned manual operations into a digital ecosystem with a focus on data integrity.
 - **Engineering:** Built using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire).
 - **Data Integration:** Developed a CSV-based automated seeding system to handle bulk product catalog updates, reducing manual entry errors by 90%.
 - **Core Features:** Dynamic Product Catalog, Secure Attendance Logging, and Backend Management for inventory tracking.
 
-> [View Repository](https://github.com/tommoriaren/alfa-frozen-jaya-web) | [Project Details](#)
+> [View Repository](https://github.com/tommoriaren/alfa-frozen-jaya-web)
 
 ---
 
 ## 📈 Professional Journey
 
-- **Senior Data Analyst (Fare Loader/Requester) | ATI Business Group (Client: Travelport)** (6 Years)
-  - Managed high-stakes flight contract data and distribution.
-  - Specialized in translating complex airline fare rules into technical system commands.
+- **Senior Data Analyst | ATI Business Group (Client: Travelport)** (6 Years)
+  - Focused on high-stakes data distribution and airline fare engine logic.
+  - Specialized in translating complex airline contract rules into technical system commands (Galileo GDS).
+  - Maintained high data integrity standards within the global travel distribution ecosystem.
 - **Bachelor of Information Systems | Bina Nusantara University**
-  - Core Focus: Business Process Analysis, Database Management, and Java Programming (Object-Oriented Programming).
+  - Core Focus: Database Management, Business Process Analysis, and Java (OOP Foundations).
 
 ---
 
 ## 🎯 What I Bring to the Table
 
-1. **Analytical Depth:** I don't just write code; I understand the business logic and data structures behind the features.
-2. **Strong CS Foundations:** My academic background in Java and Information Systems provides a solid understanding of OOP principles and system architecture.
-3. **Accuracy:** 6 years of managing airline contracts has ingrained a "zero-error" mindset when handling critical data.
+1. **Analytical Precision:** 6 years of managing high-stakes airline contracts has ingrained a "zero-error" mindset. I approach data engineering with the surgical precision required to handle critical business logic.
+2. **End-to-End System Perspective:** My background in Information Systems and Fullstack Development allows me to see the big picture—understanding how data originates in the UI and flows through the back-end into the database.
+3. **Reliability-Focused:** I prioritize building stable, "behind-the-scenes" architectures. My goal is to create systems that are not just functional, but maintainable, secure, and resilient under scale.
 
 ---
 
@@ -68,4 +68,4 @@ A practical solution developed to digitize manual operations for a local busines
 - **Location:** West Java, Indonesia 🇮🇩
 
 ---
-*“Building tools that turn data into functional digital experiences.”*
+*“Building the pipelines that turn raw data into intelligent digital experiences.”*
