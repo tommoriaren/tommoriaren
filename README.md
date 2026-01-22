@@ -1,71 +1,66 @@
-# Hi, I'm Tommy 👋
+# Hi, I'm Tommy Oktoriyan 👋
+### Experienced Data Professional | Analytics Engineer | 6 Years Domain Specialist in Travel Tech
 
-### 🏗️ Data Engineer | 6 Years Domain Specialist in Travel Tech | 🤖 AI Back-end Developer
-
-I build scalable data architectures and automated pipelines that bridge the gap between complex industrial data and actionable business intelligence. With **6 years of deep-domain experience** in Travel Tech and a background in **Information Systems**, I focus on building high-integrity data systems that are secure, practical, and AI-ready.
-
----
-
-## 🚀 About Me
-
-- **The Evolution:** Transitioned from a Senior Data Analyst into a **Data Engineer**. I don't just interpret data; I build the robust pipelines and back-end systems that power it.
-- **Domain Expertise:** Spent 6 years at the intersection of data and logic in the Travel Tech sector (Travelport), specializing in Flight Contract Analysis and Galileo GDS.
-- **AI-Enhanced Engineering:** Currently sharpening my skills as an **AI Back-end Developer** at IDCamp 2025 to build intelligent, automated data processing systems.
-- **Security-First Approach:** Intermediate-level Cybersecurity certified (Cisco), ensuring data integrity and threat management are baked into every system I build.
-- **Recent Milestone:** Passed the National Competency Test (UJK) for Fullstack Development (Dec 2025), validating my ability to ship clean, maintainable, and industry-standard code.
+I bridge the gap between complex business logic and scalable data architectures. With **6 years of deep-domain experience** in Travel Tech (Fare & GDS Logic) and a background in **Information Systems**, I specialize in building robust data pipelines and automated systems that turn raw, messy data into high-integrity business intelligence.
 
 ---
 
-## 🛠 Tech Stack (Modern Data Stack & Engineering)
+### 🚀 About Me
+
+- **The Evolution:** I am a Senior Data Analyst who evolved into an **Analytics Engineer**. I don't just interpret data; I build the automated pipelines and back-end systems that ensure data is clean, reliable, and ready for decision-making.
+- **Domain Expertise:** 6 years at the intersection of data and logic in the Travel Tech sector, specializing in Flight Contract Analysis and Galileo GDS.
+- **Fullstack Certified:** Recently passed the **National Competency Test (BNSP)** for Fullstack Development (Dec 2025), validating my ability to ship industry-standard, maintainable code in **Node.js & React**.
+- **AI & Security Conscious:** Currently sharpening AI Back-end skills (IDCamp 2025) with an intermediate-level Cybersecurity certification (Cisco) to ensure every data system I build is secure and future-ready.
+
+---
+
+### 🛠 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Data Engineering** | ETL Processes, Data Modeling, SQL (Advanced), Python, dbt (Learning) |
-| **Back-end & AI** | Node.js (Express), RESTful API Design, Machine Learning Foundations |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Infrastructure & Security** | Linux Environment, Git/GitHub, Cisco Network Security |
-| **Fullstack Skills** | Laravel, React.js, Tailwind CSS, PHP |
+| **Data & Analytics Engineering** | Advanced SQL, Data Modeling (Star Schema), dbt (Learning), Python |
+| **Back-end & Engineering** | Node.js (Express), RESTful API Design, Laravel, PHP |
+| **Frontend & UI** | React.js, Tailwind CSS, Livewire, Alpine.js |
+| **Databases & Infra** | PostgreSQL, MySQL, MongoDB, Redis, Git, Linux |
 | **Industry Tools** | Galileo GDS, Postman, Docker (Basics) |
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Project
 
-### 🧊 Alfa Frozen Jaya - Data-Driven Inventory & Attendance System
-*Fullstack Web Application for UMKM Operations*
-
-Redesigned manual operations into a digital ecosystem with a focus on data integrity.
-- **Engineering:** Built using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire).
-- **Data Integration:** Developed a CSV-based automated seeding system to handle bulk product catalog updates, reducing manual entry errors by 90%.
-- **Core Features:** Dynamic Product Catalog, Secure Attendance Logging, and Backend Management for inventory tracking.
-
-> [View Repository](https://github.com/tommoriaren/alfa-frozen-jaya-web)
+#### 🧊 Alfa Frozen Jaya - Data-Driven Inventory System
+*Fullstack Web Application for UMKM Operations (PBL Project)*
+- **The Problem:** Manual, error-prone inventory tracking for a frozen food business.
+- **The Solution:** Built a digital ecosystem using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire).
+- **Data Engineering Impact:** Developed an automated CSV-based seeding & migration system for bulk product catalogs, **reducing manual entry errors by 90%**.
+- **Key Outcome:** Transitioned a traditional UMKM into a data-ready business with secure attendance logging and real-time inventory tracking.
+- [View Repository](#) 
 
 ---
 
-## 📈 Professional Journey
+### 📈 Professional Journey
 
 - **Senior Data Analyst | ATI Business Group (Client: Travelport)** (6 Years)
   - Focused on high-stakes data distribution and airline fare engine logic.
   - Specialized in translating complex airline contract rules into technical system commands (Galileo GDS).
-  - Maintained high data integrity standards within the global travel distribution ecosystem.
-- **Bachelor of Information Systems | Bina Nusantara University**
-  - Core Focus: Database Management, Business Process Analysis, and Java (OOP Foundations).
+  - Maintained 99%+ data integrity standards within a global distribution ecosystem.
+
+- **S1 Sistem Informasi | Bina Nusantara University**
+  - Core Focus: Database Management, Business Process Analysis, and Java (OOP).
 
 ---
 
-## 🎯 What I Bring to the Table
+### 🎯 What I Bring to the Table
 
-1. **Analytical Precision:** 6 years of managing high-stakes airline contracts has ingrained a "zero-error" mindset. I approach data engineering with the surgical precision required to handle critical business logic.
-2. **End-to-End System Perspective:** My background in Information Systems and Fullstack Development allows me to see the big picture—understanding how data originates in the UI and flows through the back-end into the database.
-3. **Reliability-Focused:** I prioritize building stable, "behind-the-scenes" architectures. My goal is to create systems that are not just functional, but maintainable, secure, and resilient under scale.
+1. **Analytical Precision:** 6 years of managing high-stakes airline contracts has ingrained a "zero-error" mindset in my engineering workflow.
+2. **The "Full-Picture" Perspective:** My background allows me to understand the entire data lifecycle—from how it's captured in the UI, processed in the Back-end, to how it's modeled in the Database.
+3. **Bridge Between Tech & Business:** I speak both "Code" and "Business," making me an ideal fit for teams that need to turn complex requirements into technical reality.
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/tommyoktoriyan](https://linkedin.com/in/tommyoktoriyan)
 - **Location:** West Java, Indonesia 🇮🇩
 
----
-*“Building the pipelines that turn raw data into intelligent digital experiences.”*
+*"Building the pipelines that turn raw data into intelligent digital experiences."*
