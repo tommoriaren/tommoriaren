@@ -7,10 +7,11 @@ I bridge the gap between complex business logic and scalable data architectures.
 
 ### 🚀 About Me
 
-- **The Evolution:** I am a Senior Data Analyst who evolved into an **Analytics Engineer**. I don't just interpret data; I build the automated pipelines and back-end systems that ensure data is clean, reliable, and ready for decision-making.
-- **Domain Expertise:** 6 years at the intersection of data and logic in the Travel Tech sector, specializing in Flight Contract Analysis and Galileo GDS.
-- **Fullstack Certified:** Recently passed the **National Competency Test (BNSP)** for Fullstack Development (Dec 2025), validating my ability to ship industry-standard, maintainable code in **Node.js & React**.
-- **AI & Security Conscious:** Currently sharpening AI Back-end skills (IDCamp 2025) with an intermediate-level Cybersecurity certification (Cisco) to ensure every data system I build is secure and future-ready.
+- **The Evolution:** I am a Senior Data Analyst evolving into an **Analytics Engineer**. I don't just interpret data; I build the automated pipelines and back-end systems that ensure data is clean, reliable, and ready for decision-making.
+- **Modern Data Stack (In-Progress):** Actively deepening expertise in world-class data ecosystems: **Microsoft Fabric** (via Microsoft Elevate) and **Google Cloud Platform** (via JuaraGCP). I focus on mastering end-to-end data integration across multi-cloud environments.
+- **AI-Driven Engineering:** Sharpening my skills as an **AI Back-end Developer** (IDCamp 2025) to build intelligent, automated data processing systems.
+- **Fullstack Certified:** Passed the **National Competency Test (BNSP)** for Fullstack Development (Dec 2025), validating my ability to ship industry-standard, maintainable code in **Node.js & React**.
+- **Domain Expertise:** 6 years of experience at the intersection of data and logic in the Travel Tech sector, specializing in Flight Contract Analysis and Galileo GDS.
 
 ---
 
@@ -18,11 +19,11 @@ I bridge the gap between complex business logic and scalable data architectures.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Data & Analytics Engineering** | Advanced SQL, Data Modeling (Star Schema), dbt (Learning), Python |
-| **Back-end & Engineering** | Node.js (Express), RESTful API Design, Laravel, PHP |
+| **Data & Analytics Engineering** | Advanced SQL, Data Modeling (Star Schema), Microsoft Fabric, Google BigQuery, dbt, Python |
+| **Back-end & Engineering** | Node.js (Express), AI/ML Foundations, RESTful API Design, Laravel, PHP |
 | **Frontend & UI** | React.js, Tailwind CSS, Livewire, Alpine.js |
-| **Databases & Infra** | PostgreSQL, MySQL, MongoDB, Redis, Git, Linux |
-| **Industry Tools** | Galileo GDS, Postman, Docker (Basics) |
+| **Databases & Infra** | PostgreSQL, MySQL, MongoDB, Redis, Git, Linux, Docker (Basics) |
+| **Industry Tools** | Galileo GDS, Postman |
 
 ---
 
@@ -53,8 +54,8 @@ I bridge the gap between complex business logic and scalable data architectures.
 ### 🎯 What I Bring to the Table
 
 1. **Analytical Precision:** 6 years of managing high-stakes airline contracts has ingrained a "zero-error" mindset in my engineering workflow.
-2. **The "Full-Picture" Perspective:** My background allows me to understand the entire data lifecycle—from how it's captured in the UI, processed in the Back-end, to how it's modeled in the Database.
-3. **Bridge Between Tech & Business:** I speak both "Code" and "Business," making me an ideal fit for teams that need to turn complex requirements into technical reality.
+2. **End-to-End System Perspective:** My background in Information Systems and Fullstack Development allows me to see the big picture—understanding how data originates in the UI and flows through the back-end into the database.
+3. **Multi-Cloud Adaptability:** Actively learning both **Azure (Fabric)** and **GCP (BigQuery)** to provide flexible solutions in modern cloud-native environments.
 
 ---
 
