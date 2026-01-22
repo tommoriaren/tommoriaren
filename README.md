@@ -46,7 +46,7 @@ I bridge the gap between complex business logic and scalable data architectures.
   - Specialized in translating complex airline contract rules into technical system commands (Galileo GDS).
   - Maintained 99%+ data integrity standards within a global distribution ecosystem.
 
-- **Bachelor of Information System | Bina Nusantara University**
+- **Bachelor of Information Systems | Bina Nusantara University**
   - Core Focus: Database Management, Business Process Analysis, and Java (OOP).
 
 ---
