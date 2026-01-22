@@ -1,4 +1,4 @@
-# Hi, I'm Tommy Oktoriyan 👋
+# Hi, I'm Tommy 👋
 ### Experienced Data Professional | Analytics Engineer | 6 Years Domain Specialist in Travel Tech
 
 I bridge the gap between complex business logic and scalable data architectures. With **6 years of deep-domain experience** in Travel Tech (Fare & GDS Logic) and a background in **Information Systems**, I specialize in building robust data pipelines and automated systems that turn raw, messy data into high-integrity business intelligence.
