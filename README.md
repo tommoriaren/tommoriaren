@@ -1,67 +1,107 @@
 # Hi, I'm Tommy 👋
-### Experienced Data Professional | Analytics Engineer | 6 Years Domain Specialist in Travel Tech
+### Backend Developer (Data-Oriented) | 6 Years Operational Data Experience in Travel Tech
 
-I bridge the gap between complex business logic and scalable data architectures. With **6 years of deep-domain experience** in Travel Tech (Fare & GDS Logic) and a background in **Information Systems**, I specialize in building robust data pipelines and automated systems that turn raw, messy data into high-integrity business intelligence.
-
----
-
-### 🚀 About Me
-
-- **The Evolution:** I am a Senior Data Analyst evolving into an **Analytics Engineer**. I don't just interpret data; I build the automated pipelines and back-end systems that ensure data is clean, reliable, and ready for decision-making.
-- **Modern Data Stack (In-Progress):** Actively deepening expertise in world-class data ecosystems: **Microsoft Fabric** (via Microsoft Elevate) and **Google Cloud Platform** (via JuaraGCP). I focus on mastering end-to-end data integration across multi-cloud environments.
-- **AI-Driven Engineering:** Sharpening my skills as an **AI Back-end Developer** (IDCamp 2025) to build intelligent, automated data processing systems.
-- **Fullstack Certified:** Passed the **National Competency Test (BNSP)** for Fullstack Development (Dec 2025), validating my ability to ship industry-standard, maintainable code in **Node.js & React**.
-- **Domain Expertise:** 6 years of experience at the intersection of data and logic in the Travel Tech sector, specializing in Flight Contract Analysis and Galileo GDS.
+I build **reliable backend systems and data-driven applications** with a strong focus on **data accuracy, operational integrity, and SLA-driven environments**.  
+With 6 years of experience handling **business-critical data** in the Travel Tech industry and a background in **Information Systems**, I specialize in turning complex operational requirements into **clean, maintainable backend solutions**.
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
+
+- **Career Transition (Structured & Proven):**  
+  I transitioned from a **Data Operations / Data Analyst role** into a **Backend Developer (Data-Oriented)** through structured training, real-world projects, and formal competency assessments.
+
+- **Backend-Focused Engineering:**  
+  My primary focus is **server-side development**, relational databases, API design, and backend logic that ensures **data integrity and system reliability**.
+
+- **Hands-on Industry Training:**  
+  Currently progressing through the **AI Back-End Developer Program (IDCamp 2025)**, strengthening backend fundamentals with JavaScript and cloud-ready application concepts.
+
+- **Formally Assessed Competency:**  
+  Passed the **National Web Development Competency Test (BNSP)**, validating my ability to build industry-standard backend web applications.
+
+- **Strong Domain Foundation:**  
+  6+ years working with **fare, pricing, and contract data** in Travelport (Galileo GDS), where precision and zero-error tolerance are mandatory.
+
+---
+
+## 🛠 Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| **Data & Analytics Engineering** | Advanced SQL, Data Modeling (Star Schema), Microsoft Fabric, Google BigQuery, dbt, Python |
-| **Back-end & Engineering** | Node.js (Express), AI/ML Foundations, RESTful API Design, Laravel, PHP |
-| **Frontend & UI** | React.js, Tailwind CSS, Livewire, Alpine.js |
-| **Databases & Infra** | PostgreSQL, MySQL, MongoDB, Redis, Git, Linux, Docker (Basics) |
-| **Industry Tools** | Galileo GDS, Postman |
+|------|------|
+| **Backend Development** | PHP (Laravel), RESTful API Development, JavaScript (ES6+), Node.js (basic) |
+| **Data & Database** | MySQL, SQL, Database Schema Design, Data Validation & Integrity |
+| **Frontend (Supporting)** | Tailwind CSS, Alpine.js, React.js (basic, internal dashboards) |
+| **Tools & Practices** | Git & GitHub, Postman, Linux (basic), SOP & SLA-driven workflows |
+| **Domain Tools** | Galileo GDS |
+
+> ⚠️ Frontend is used **to support backend workflows**, not as the main specialization.
 
 ---
 
-### 📂 Featured Project
+## 📂 Featured Project
 
-#### 🧊 Alfa Frozen Jaya - Data-Driven Inventory System
-*Fullstack Web Application for UMKM Operations (PBL Project)*
-- **The Problem:** Manual, error-prone inventory tracking for a frozen food business.
-- **The Solution:** Built a digital ecosystem using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire).
-- **Data Engineering Impact:** Developed an automated CSV-based seeding & migration system for bulk product catalogs, **reducing manual entry errors by 90%**.
-- **Key Outcome:** Transitioned a traditional UMKM into a data-ready business with secure attendance logging and real-time inventory tracking.
-  <br>[View Repository](#) 
+### 🧊 Alfa Frozen Jaya – Integrated E-Catalog & Attendance System  
+*Backend & Web Application Project (On-the-Job Training)*
 
----
+- **Problem:**  
+  Manual product catalog management and employee attendance tracking caused data inconsistency and operational inefficiencies.
 
-### 📈 Professional Journey
+- **Solution:**  
+  Developed an **integrated digital platform** using **Laravel (PHP)** and **MySQL** to manage:
+  - Frozen food & grocery product catalog (E-Catalog)
+  - Web-based employee attendance system
 
-- **Senior Data Analyst | ATI Business Group (Client: Travelport)** (6 Years)
-  - Focused on high-stakes data distribution and airline fare engine logic.
-  - Specialized in translating complex airline contract rules into technical system commands (Galileo GDS).
-  - Maintained 99%+ data integrity standards within a global distribution ecosystem.
+- **Backend & Data Focus:**  
+  - Designed relational database schemas to ensure **data integrity**
+  - Implemented backend CRUD logic, validation, and role-based access control
+  - Ensured consistency across operational data used daily by the business
 
-- **Bachelor of Information Systems | Bina Nusantara University**
-  - Core Focus: Database Management, Business Process Analysis, and Java (OOP).
+- **Tech Stack:**  
+  Laravel, MySQL, Tailwind CSS, Alpine.js
 
----
-
-### 🎯 What I Bring to the Table
-
-1. **Analytical Precision:** 6 years of managing high-stakes airline contracts has ingrained a "zero-error" mindset in my engineering workflow.
-2. **End-to-End System Perspective:** My background in Information Systems and Fullstack Development allows me to see the big picture—understanding how data originates in the UI and flows through the back-end into the database.
-3. **Multi-Cloud Adaptability:** Actively learning both **Azure (Fabric)** and **GCP (BigQuery)** to provide flexible solutions in modern cloud-native environments.
+🔗 [View Repository](https://github.com/tommoriaren/alfa-frozen-jaya-web)
 
 ---
 
-### 📫 Let's Connect!
+## 📈 Professional Experience
 
-- **LinkedIn:** [linkedin.com/in/tommyoktoriyan](https://linkedin.com/in/tommyoktoriyan)
-- **Location:** West Java, Indonesia 🇮🇩
+### Data Analyst – Operations (Fare Loader / Fare Requester)  
+**ATI Business Group – Client: Travelport**  
+*6 Years*
 
-*"Building the pipelines that turn raw data into intelligent digital experiences."*
+- Managed and maintained **airline fare and pricing data** within production reservation systems.
+- Processed high-volume data requests while ensuring **accuracy, consistency, and compliance**.
+- Performed data validation and error resolution to prevent pricing and revenue discrepancies.
+- Worked under strict **SLA and audit requirements** in a global operational environment.
+
+> This role built my strong foundation in **data accuracy, operational discipline, and production systems**—now applied directly to backend development.
+
+---
+
+## 🎯 What I Bring as a Backend Developer
+
+1. **Operational Reliability Mindset**  
+   Years of working with revenue-impact data shaped a backend approach that prioritizes correctness over shortcuts.
+
+2. **Data-Oriented Backend Design**  
+   I treat databases as first-class citizens—schemas, constraints, and validation matter.
+
+3. **Clear Communication & Documentation**  
+   Comfortable collaborating with technical and non-technical stakeholders in structured environments.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information Systems** - Bina Nusantara University  
+Focus: Database Systems, Business Process Analysis, and System Design
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/tommyoktoriyan](https://linkedin.com/in/tommyoktoriyan)  
+- **Location:** West Java, Indonesia 🇮🇩  
+
+*"Building backend systems where data accuracy and reliability come first."*
