@@ -35,7 +35,7 @@ I bridge the gap between complex business logic and scalable data architectures.
 - **The Solution:** Built a digital ecosystem using the **TALL Stack** (Tailwind, Alpine, Laravel, Livewire).
 - **Data Engineering Impact:** Developed an automated CSV-based seeding & migration system for bulk product catalogs, **reducing manual entry errors by 90%**.
 - **Key Outcome:** Transitioned a traditional UMKM into a data-ready business with secure attendance logging and real-time inventory tracking.
-- [View Repository](#) 
+  [View Repository](#) 
 
 ---
 
