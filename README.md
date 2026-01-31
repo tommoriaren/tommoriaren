@@ -1,107 +1,104 @@
-# Hi, I'm Tommy 👋
-### Backend Developer (Data-Oriented) | 6 Years Operational Data Experience in Travel Tech
+# Hi, I’m Tommy 👋  
+## Data Analyst (Operational & Business Analytics)
 
-I build **reliable backend systems and data-driven applications** with a strong focus on **data accuracy, operational integrity, and SLA-driven environments**.  
-With 6 years of experience handling **business-critical data** in the Travel Tech industry and a background in **Information Systems**, I specialize in turning complex operational requirements into **clean, maintainable backend solutions**.
+Data Analyst with 5+ years of experience handling business-critical operational data in SLA-driven environments, particularly within the Travel Tech industry.  
+I specialize in **data accuracy, validation, operational reporting, and transforming raw data into actionable insights** for business and operational decision-making.
 
 ---
 
 ## 🚀 About Me
 
-- **Career Transition (Structured & Proven):**  
-  I transitioned from a **Data Operations / Data Analyst role** into a **Backend Developer (Data-Oriented)** through structured training, real-world projects, and formal competency assessments.
+### Strong Operational Data Foundation  
+I spent over 5 years managing airline fare, pricing, and contract data within Travelport (Galileo GDS), where **precision, auditability, and zero-error tolerance** are mandatory.
 
-- **Backend-Focused Engineering:**  
-  My primary focus is **server-side development**, relational databases, API design, and backend logic that ensures **data integrity and system reliability**.
+### Structured Career Transition  
+I transitioned from Data Operations into Data Analytics through **project-based learning**, hands-on analytics projects, and real-world operational data system implementation.
 
-- **Hands-on Industry Training:**  
-  Currently progressing through the **AI Back-End Developer Program (IDCamp 2025)**, strengthening backend fundamentals with JavaScript and cloud-ready application concepts.
-
-- **Formally Assessed Competency:**  
-  Passed the **National Web Development Competency Test (BNSP)**, validating my ability to build industry-standard backend web applications.
-
-- **Strong Domain Foundation:**  
-  6+ years working with **fare, pricing, and contract data** in Travelport (Galileo GDS), where precision and zero-error tolerance are mandatory.
+### Data First, Tools Second  
+I focus on **how data flows, where errors occur, and how insights support decisions**, not just on tools or dashboards.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills & Tools
 
-| Category | Technologies |
-|------|------|
-| **Backend Development** | PHP (Laravel), RESTful API Development, JavaScript (ES6+), Node.js (basic) |
-| **Data & Database** | MySQL, SQL, Database Schema Design, Data Validation & Integrity |
-| **Frontend (Supporting)** | Tailwind CSS, Alpine.js, React.js (basic, internal dashboards) |
-| **Tools & Practices** | Git & GitHub, Postman, Linux (basic), SOP & SLA-driven workflows |
-| **Domain Tools** | Galileo GDS |
+### Hard Skills (Data & Analytics)
+- SQL (Data Extraction, Aggregation, Reporting)  
+- Data Quality Assurance & Data Validation  
+- Operational & Business Data Analysis  
+- User Retention & Behavioral Analysis  
+- SLA, Error Rate, and Turnaround Time Monitoring  
 
-> ⚠️ Frontend is used **to support backend workflows**, not as the main specialization.
+### Visualization & Reporting
+- Looker Data Studio  
+- Microsoft Excel (Data Cleaning, Pivot Tables, Automated Templates)
+
+### Data-Supporting Technologies
+- MySQL  
+- PHP (Laravel – operational data systems)  
+- REST API (conceptual understanding)
 
 ---
 
-## 📂 Featured Project
+## 📂 Portfolio Projects
 
-### 🧊 Alfa Frozen Jaya – Integrated E-Catalog & Attendance System  
-*Backend & Web Application Project (On-the-Job Training)*
+### 🗄️ TechCorp SQL Analysis  
+Performed SQL-based data extraction, filtering, aggregation, and reporting to support operational analysis and answer structured business questions using relational datasets.
 
-- **Problem:**  
-  Manual product catalog management and employee attendance tracking caused data inconsistency and operational inefficiencies.
+### 📈 User Retention Analysis  
+Analyzed user behavior data to identify retention patterns and churn indicators, translating analytical results into business-focused insights.
 
-- **Solution:**  
-  Developed an **integrated digital platform** using **Laravel (PHP)** and **MySQL** to manage:
-  - Frozen food & grocery product catalog (E-Catalog)
-  - Web-based employee attendance system
+### 📊 Data Visualization – Looker Data Studio  
+Built interactive dashboards to monitor KPIs and operational trends, enabling stakeholders to quickly identify performance issues and improvement opportunities.
 
-- **Backend & Data Focus:**  
-  - Designed relational database schemas to ensure **data integrity**
-  - Implemented backend CRUD logic, validation, and role-based access control
-  - Ensured consistency across operational data used daily by the business
+### 🧊 Operational Data Project – Alfa Frozen Jaya (OJT)  
+Digitized manual operational processes into structured data systems to improve reporting accuracy and operational efficiency.
 
-- **Tech Stack:**  
-  Laravel, MySQL, Tailwind CSS, Alpine.js
+**Key Contributions:**  
+- Structured operational data for reporting readiness  
+- Implemented data validation to ensure consistency  
+- Supported management with reliable operational reports  
 
-🔗 [View Repository](https://github.com/tommoriaren/alfa-frozen-jaya-web)
+*Tools:* MySQL, Laravel (data source system), Excel
 
 ---
 
 ## 📈 Professional Experience
 
-### Data Analyst – Operations (Fare Loader / Fare Requester)  
-**ATI Business Group – Client: Travelport**  
+### Data Analyst – Operational Data  
+**ATI Business Group (Client: Travelport)**  
 *6 Years*
 
-- Managed and maintained **airline fare and pricing data** within production reservation systems.
-- Processed high-volume data requests while ensuring **accuracy, consistency, and compliance**.
-- Performed data validation and error resolution to prevent pricing and revenue discrepancies.
-- Worked under strict **SLA and audit requirements** in a global operational environment.
+- Managed and validated airline fare and pricing data in production reservation systems  
+- Conducted data audits to reduce transaction errors and revenue risk  
+- Produced operational reports on volume, error rate, and turnaround time  
+- Worked under strict SLA and compliance requirements in a global environment  
 
-> This role built my strong foundation in **data accuracy, operational discipline, and production systems**—now applied directly to backend development.
+This role built a strong foundation in **data accuracy, analytical discipline, and real-world operational data challenges**.
 
 ---
 
-## 🎯 What I Bring as a Backend Developer
+## 🎯 What I Bring as a Data Analyst
 
-1. **Operational Reliability Mindset**  
-   Years of working with revenue-impact data shaped a backend approach that prioritizes correctness over shortcuts.
+- **Operational Accuracy Mindset**  
+  Data must be correct before it becomes insightful.
 
-2. **Data-Oriented Backend Design**  
-   I treat databases as first-class citizens—schemas, constraints, and validation matter.
+- **Business-Oriented Analysis**  
+  Insights are valuable only when they support decisions.
 
-3. **Clear Communication & Documentation**  
-   Comfortable collaborating with technical and non-technical stakeholders in structured environments.
+- **Clear Communication & Documentation**  
+  Comfortable explaining findings to technical and non-technical stakeholders.
 
 ---
 
 ## 🎓 Education
-
-**Bachelor of Information Systems** - Bina Nusantara University  
-Focus: Database Systems, Business Process Analysis, and System Design
+**Bachelor of Information Systems**  
+Bina Nusantara University  
+Focus: Database Systems, Business Process Analysis, System Design
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
+- LinkedIn: https://linkedin.com/in/tommyoktoriyan  
+- Location: West Java, Indonesia 🇮🇩  
 
-- **LinkedIn:** [linkedin.com/in/tommyoktoriyan](https://linkedin.com/in/tommyoktoriyan)  
-- **Location:** West Java, Indonesia 🇮🇩  
-
-*"Building backend systems where data accuracy and reliability come first."*
+> *Turning operational data into reliable insights.*
