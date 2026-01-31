@@ -66,7 +66,7 @@ Digitized manual operational processes into structured data systems to improve r
 
 ### Data Analyst – Operational Data  
 **ATI Business Group (Client: Travelport)**  
-*6 Years*
+*5+ Years*
 
 - Managed and validated airline fare and pricing data in production reservation systems  
 - Conducted data audits to reduce transaction errors and revenue risk  
