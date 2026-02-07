@@ -13,9 +13,6 @@ I'm a **Backend Enthusiast** focused on building efficient systems and solving t
 - **[Task Manager API]**: My first attempt at building a CRUD system with Node.js.
 - **[Database Schema Design]**: A repository where I practice SQL queries and table relationships.
 
-### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommoriaren&show_icons=true&theme=transparent)
-
 ---
 
 ### 📬 Connect with me
